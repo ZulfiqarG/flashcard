@@ -19,7 +19,7 @@ const Modal = ({ groupId, cardId, visible, handleClose, notify }) => {
                 />
                 <div className='p-6 flex  items-center justify-center space-x-3'>
                     <div className=' border-dashed border w-64 overflow-hidden border-gray-400 rounded-md px-3 py-1 text-sm '>
-                        <p className='text-gray-500'>Link:<a ref={copyLink} target='_blank' rel="noreferrer" href={`https://flashcard-generator-jaychandlani.vercel.app/card/${groupId}/${cardId}`} className='ml-1 text-blue-500'>{`https://flashcard-generator-jaychandlani.vercel.app/card/${groupId}/${cardId}`}</a></p>
+                        <p className='text-gray-500'>Link:<a ref={copyLink} target='_blank' rel="noreferrer" href={`https://flashcard-zulfiqarsk.netlify.app/card/${groupId}/${cardId}`} className='ml-1 text-blue-500'>{`https://flashcard-generator-jaychandlani.vercel.app/card/${groupId}/${cardId}`}</a></p>
                     </div>
                     <FaRegCopy
                         onClick={handleCopy}
