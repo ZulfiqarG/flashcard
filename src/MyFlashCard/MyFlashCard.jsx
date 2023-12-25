@@ -10,7 +10,7 @@ const MyFlashCard = () => {
     
     return (
         <div className='md:mt-10  px-5  xl:px-44  my-5'>
-            <div className='grid lg:grid-cols-3 2xl:grid-cols-4 md:grid-cols-2 gap-4  '>
+            <div className='grid lg:grid-cols-3 2xl:grid-cols-4 md:grid-cols-2 gap-4'>
 
                 {data.length ? data.map((items, index) => {
 

@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+.coloradd{
+  background-color: #21D4FD;
+  background-image: linear-gradient( 109.6deg,  rgba(254,253,205,1) 11.2%, rgba(163,230,255,1) 91.1% );
+}
