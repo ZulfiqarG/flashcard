@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/flashcard/static/css/main.6b2f73e6.css",
+    "main.js": "/flashcard/static/js/main.f683638b.js",
+    "static/js/498.b7b9c6f6.chunk.js": "/flashcard/static/js/498.b7b9c6f6.chunk.js",
+    "static/js/703.2380344d.chunk.js": "/flashcard/static/js/703.2380344d.chunk.js",
+    "static/js/541.25afe412.chunk.js": "/flashcard/static/js/541.25afe412.chunk.js",
+    "static/js/787.254fd7c3.chunk.js": "/flashcard/static/js/787.254fd7c3.chunk.js",
+    "static/media/mars.jpg": "/flashcard/static/media/mars.93aae248c8dd900ea7cc.jpg",
+    "static/media/golden-tower.jpg": "/flashcard/static/media/golden-tower.62206becdd4092e46f67.jpg",
+    "static/media/grey.jpg": "/flashcard/static/media/grey.e6401d3a5c6739dc05ad.jpg",
+    "static/media/BrandLogo.png": "/flashcard/static/media/BrandLogo.5bb20ee235db8643259f.png",
+    "index.html": "/flashcard/index.html",
+    "main.6b2f73e6.css.map": "/flashcard/static/css/main.6b2f73e6.css.map",
+    "main.f683638b.js.map": "/flashcard/static/js/main.f683638b.js.map",
+    "498.b7b9c6f6.chunk.js.map": "/flashcard/static/js/498.b7b9c6f6.chunk.js.map",
+    "703.2380344d.chunk.js.map": "/flashcard/static/js/703.2380344d.chunk.js.map",
+    "541.25afe412.chunk.js.map": "/flashcard/static/js/541.25afe412.chunk.js.map",
+    "787.254fd7c3.chunk.js.map": "/flashcard/static/js/787.254fd7c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b2f73e6.css",
+    "static/js/main.f683638b.js"
+  ]
+}
